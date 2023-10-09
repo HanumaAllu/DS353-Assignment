@@ -27,8 +27,7 @@ The workflow of the Project is:
 ## Results
 
 Top 50 connected components.
-
-![train](./docs/images/train.png)
+The connected component and its corresponding size.
 ![train](./Images/result1.jpg)
 ![train](./Images/result2.jpg)
 ![train](./Images/result3.jpg)
