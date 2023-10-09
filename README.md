@@ -27,11 +27,11 @@ The workflow of the Project is:
 ## Results
 
 Top 50 connected components.
-.\Images\result1.jpg
-.\Images\result2.jpg
-.\Images\result3.jpg
 
-![train]()
+![train](./docs/images/train.png)
+![train](./Images/result1.jpg)
+![train](./Images/result2.jpg)
+![train](./Images/result3.jpg)
 
 ## Team Members
 
